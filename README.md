@@ -9,9 +9,10 @@
   
   STEP 3: NOW VISIT THIS LINK: http://localhost/Laurence/Lau_cont/main
   
- ---------------------------------------------------------------------------------------------------
+  
+ # PALANOG_HadoopHDFS
  
-INSTALLING HADOOP AND HOW HDFS ARCHITECTURE (NameNode and DataNode) WORKS.
+ INSTALLING HADOOP AND HOW HDFS ARCHITECTURE (NameNode and DataNode) WORKS
  
  First I Installed Java
   
@@ -66,7 +67,7 @@ INSTALLING HADOOP AND HOW HDFS ARCHITECTURE (NameNode and DataNode) WORKS.
   ![](images/im10.png)
   
   
-  SUCCESSFULLY HADOOP HAS BEEN INSTALLED and Name Node and Data Node HAS BEEN CREATED!
+  SUCCESSFULLY HADOOP HAS BEEN INSTALLED and Name Node and Data Node HAS BEEN CREATED!!!
   ![](images/im11.png)
  
   
