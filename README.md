@@ -10,6 +10,10 @@
   STEP 3: NOW VISIT THIS LINK: http://localhost/Laurence/Lau_cont/main
   
   
+ 
+ 
+ 
+ 
  # PALANOG_HadoopHDFS
  
  INSTALLING HADOOP AND HOW HDFS ARCHITECTURE (NameNode and DataNode) WORKS
