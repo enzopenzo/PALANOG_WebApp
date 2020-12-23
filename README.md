@@ -75,6 +75,6 @@
   ![](images/im11.png)
 
 
-(I learned about how to start up installing hadoop in my PC and explore how it works especially the HDFS architecture, and if I want really to understand the concept of Hadoop flows, learning how Hadoop does it will give me either a fairly deep understanding. And maybe I can also find that if I run exploration, putting data in the Hadoop Distributed File System and giving my output access to HDFS, it maybe become handy and easy to learn.)
+(I learned about how to start up installing hadoop with Java in my PC and explore how it works especially the HDFS, and if I want really to know and understand the concept of Hadoop flows, learning how Hadoop does it will give me either a fairly deep understanding and learning. And maybe I can also find that if I run exploration, putting data in the Hadoop Distributed File System and giving my output access to HDFS architecture, it maybe become handy and easy to learn.)
  
   
